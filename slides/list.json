@@ -10,6 +10,7 @@
     "coffeescript.md",
     "coffeescript-classes.md",
     "html-we-want-to-have.md",
+    "tools-to-achieve-that.md",
     {
         "filename": "grunt.md",
         "attr": {
