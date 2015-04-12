@@ -9,5 +9,17 @@
     "sass.md",
     "coffeescript.md",
     "coffeescript-classes.md",
-    "html-we-want-to-have.md"
+    "html-we-want-to-have.md",
+    {
+        "filename": "grunt.md",
+        "attr": {
+            "data-background": "#e98925"
+        }
+    },
+    {
+        "filename": "gulp.md",
+        "attr": {
+            "data-background": "#cf4646"
+        }
+    }
 ]
