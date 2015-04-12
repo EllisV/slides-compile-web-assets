@@ -1941,6 +1941,14 @@ body {
   list-style-type: none; }
 .reveal .circle {
   border-radius: 50%; }
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+  background: transparent; }
+.reveal section img.bordered {
+  background: rgba(255, 255, 255, 0.12);
+  border: 4px solid #93a1a1;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
 .reveal pre code {
   max-height: none;
   word-wrap: break-word; }
