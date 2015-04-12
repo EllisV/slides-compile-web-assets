@@ -2,11 +2,11 @@
 
 ```coffeescript
 (($) ->
-    'use strict'
+  'use strict'
 
-    $(document).on 'click.dropdown.data-api', '.dropdown', (e) ->
-        e.preventDefault()
-        $(this).toggle()
+  $(document).on 'click.dropdown.data-api', '.dropdown', (e) ->
+    e.preventDefault()
+    $(this).toggle()
 
 )(window.jQuery)
 ```
