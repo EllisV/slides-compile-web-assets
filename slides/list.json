@@ -2,5 +2,11 @@
     "index.md",
     "about.html",
     "know-your-audience.md",
-    "nodejs.md"
+    "modern-frontend-developer.md",
+    "nodejs.md",
+    "sass-intro.md",
+    "scss.md",
+    "sass.md",
+    "coffeescript.md",
+    "coffeescript-classes.md"
 ]
