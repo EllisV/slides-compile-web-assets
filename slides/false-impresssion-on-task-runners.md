@@ -1,7 +1,7 @@
 ## False impressions on JS task runners
 
 * People think that Grunt is a monstrous tool which can do everything
-* It is an API for writting commands. In most cases it only delegates tasks to other tools
+* It actually is an API for writting commands. In most cases it only delegates tasks to other tools
 
 ```javascript
 module.exports = function (grunt) {
