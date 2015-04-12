@@ -1,0 +1,9 @@
+{
+  "name": "compiling-your-web-assets",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~2.6.1",
+    "reveal-highlight-themes": "~8.3.0",
+    "fontawesome": "~4.3.0"
+  }
+}
