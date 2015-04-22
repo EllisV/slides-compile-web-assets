@@ -25,5 +25,7 @@
     },
     "false-impresssion-on-task-runners.md",
     "compiling-sass-with-grunt.md",
-    "compiling-sass-with-gulp.md"
+    "compiling-sass-with-gulp.md",
+    "refactoring-old-project.md",
+    "why-task-runners-in-modern-framework.md"
 ]
