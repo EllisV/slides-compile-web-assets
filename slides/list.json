@@ -24,5 +24,6 @@
         }
     },
     "false-impresssion-on-task-runners.md",
-    "compiling-sass-with-grunt.md"
+    "compiling-sass-with-grunt.md",
+    "compiling-sass-with-gulp.md"
 ]
