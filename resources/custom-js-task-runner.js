@@ -1,6 +1,3 @@
-## Custom JS task runner
-
-```javascript
 #!/usr/bin/env node
 
 var args = process.argv.slice(2);
@@ -14,4 +11,3 @@ args.forEach(function (value) {
       console.log('Command "' + value + '" not found')
   }
 });
-```
