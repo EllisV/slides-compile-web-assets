@@ -28,6 +28,18 @@
     "compiling-sass-with-gulp.md",
     "refactoring-old-project.md",
     "why-task-runners-in-modern-framework.md",
+    {
+        "filename": "bower.md",
+        "attr": {
+            "data-background": "#ffcc2f"
+        }
+    },
+    {
+        "filename": "yeoman.md",
+        "attr": {
+            "data-background": "#1f1f1f"
+        }
+    },
     "questions.md",
     "who-to-follow.html"
 ]
